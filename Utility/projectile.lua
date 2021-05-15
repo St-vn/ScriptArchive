@@ -1,3 +1,6 @@
+-- St_vn#3931 / St_vnC(Roblox) / St-vn(GitHub)
+-- 15/05/2021
+
 local projectiles = {}
 local toMove, moveTo = {}, {}
 
